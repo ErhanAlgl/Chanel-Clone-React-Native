@@ -3,4 +3,4 @@ Chanel with React Native
 
 ## Screen
 
-<a href="https://imgflip.com/gif/5ggvwu"><img src="https://imgflip.com/gif/5ggvwu" title="Chanel"/></a>
+![5ggwqb](https://user-images.githubusercontent.com/39314007/125669786-30bafb03-653f-4a84-9842-782c1af0ac56.gif)
